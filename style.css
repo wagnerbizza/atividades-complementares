@@ -1,15 +1,15 @@
 /* Estilo geral da página */
 body {
     font-family: Arial, sans-serif; /* tipo da letra */
-    background-color: #eeeeee;      /* cor de fundo */
-    color: #333333;                 /* cor do texto */
+    background-color: #1b1919;      /* cor de fundo */
+    color: #b62525;                 /* cor do texto */
     text-align: center;             /* centralizar texto */
-    padding: 50px;
+    padding: 60px;
 }
 
 /* Título */
 h1 {
-    color: #0066cc;     /* cor azul */
+    color: #13bc48;     /* cor azul */
     font-size: 30px;    /* tamanho da letra */
 }
 
